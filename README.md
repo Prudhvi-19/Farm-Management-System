@@ -6,10 +6,10 @@ Terminal Level Simple Farm is Stimulated and Managed
 
 USING:
 
-Download and the Repo 
+Download the Repo 
 
-Go to the location in Terminal and Just tun following command
+Go to the location in Terminal and just run following command
 
-python3 Start.py
+"""  python3 Start.py   """
 
 Boom! Thats it Play it with 
